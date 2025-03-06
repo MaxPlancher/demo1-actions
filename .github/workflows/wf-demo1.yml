@@ -1,4 +1,4 @@
-name: Maon Premier WOrkflow
+name: My First Workflow
 on: workflow_dispatch
 jobs:
   firstJob:
