@@ -5,8 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: My First Job
-       run: echo "Job Starting"
+      run: echo "Job Starting"
       -name: My First Instructions
-       run: ls /
+      run: ls /
       -name: End of First Job
-       run: echo "That's All Folks!"
+      run: echo "That's All Folks!"
